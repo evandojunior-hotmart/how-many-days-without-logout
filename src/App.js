@@ -33,7 +33,7 @@ const App = () => {
     <div className="app">
       {/* <img src={calendar} alt="calendar" /> */}
       <header className='header'>
-        <p className='warn'>🛑 Por favor, pare de executar o compando <b>npm logout</b> 🛑</p>
+        <p className='warn'>🛑 Por favor, pare de executar o comando <b>npm logout</b> 🛑</p>
       </header>
 
       <p>Estamos há</p>
