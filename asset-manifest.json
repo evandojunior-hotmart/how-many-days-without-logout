@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/how-many-days-without-logout/static/css/main.8f113a0a.css",
-    "main.js": "/how-many-days-without-logout/static/js/main.5dfa0a0a.js",
+    "main.css": "/how-many-days-without-logout/static/css/main.83273640.css",
+    "main.js": "/how-many-days-without-logout/static/js/main.ef5ff0a9.js",
     "index.html": "/how-many-days-without-logout/index.html",
-    "main.8f113a0a.css.map": "/how-many-days-without-logout/static/css/main.8f113a0a.css.map",
-    "main.5dfa0a0a.js.map": "/how-many-days-without-logout/static/js/main.5dfa0a0a.js.map"
+    "main.83273640.css.map": "/how-many-days-without-logout/static/css/main.83273640.css.map",
+    "main.ef5ff0a9.js.map": "/how-many-days-without-logout/static/js/main.ef5ff0a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f113a0a.css",
-    "static/js/main.5dfa0a0a.js"
+    "static/css/main.83273640.css",
+    "static/js/main.ef5ff0a9.js"
   ]
 }
