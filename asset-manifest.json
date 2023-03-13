@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/how-many-days-without-logout/static/css/main.83273640.css",
-    "main.js": "/how-many-days-without-logout/static/js/main.ef5ff0a9.js",
+    "main.js": "/how-many-days-without-logout/static/js/main.bf7311c8.js",
     "index.html": "/how-many-days-without-logout/index.html",
     "main.83273640.css.map": "/how-many-days-without-logout/static/css/main.83273640.css.map",
-    "main.ef5ff0a9.js.map": "/how-many-days-without-logout/static/js/main.ef5ff0a9.js.map"
+    "main.bf7311c8.js.map": "/how-many-days-without-logout/static/js/main.bf7311c8.js.map"
   },
   "entrypoints": [
     "static/css/main.83273640.css",
-    "static/js/main.ef5ff0a9.js"
+    "static/js/main.bf7311c8.js"
   ]
 }
