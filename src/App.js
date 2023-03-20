@@ -1,6 +1,6 @@
 import './App.css';
 
-const lastTokenUpdateDate = new Date(2023, 2, 13, 11, 0, 0)
+const lastTokenUpdateDate = new Date(2023, 2, 20, 18, 0, 0)
 
 const App = () => {
   const diffDays = Math.floor((new Date() - lastTokenUpdateDate) / 1000 / 60 / (60 * 24))
